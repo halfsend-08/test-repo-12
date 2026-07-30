@@ -1,3 +1,3 @@
-# Behaviour Test Agent
+# URL Test Agent
 
-Minimal agent fixture for harness behaviour tests.
+Minimal agent fixture for URL-sourced harness behaviour tests.
